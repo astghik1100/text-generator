@@ -1,0 +1,26 @@
+.textarea{
+    margin-bottom: 20px;
+}
+
+.font-size{
+    margin-bottom: 20px;
+}
+
+.font-family{
+    margin-bottom: 20px;
+}
+
+._color{
+    margin-bottom: 20px;
+}
+
+._bgcolor{
+    margin-bottom: 50px;
+}
+
+.field{
+    width: 100%;
+    min-height: 300px;
+    border: 1px solid black;
+}
+
